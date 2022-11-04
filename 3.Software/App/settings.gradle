@@ -1,0 +1,2 @@
+include ':myBluetooth'
+include ':app'
