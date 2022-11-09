@@ -22,7 +22,7 @@ DFRobot_VL53L0X sensor;
 
 void setup() {
   Serial.begin(115200);
-  SerialBT.begin("ESP32test"); //Bluetooth device name
+  SerialBT.begin("WirelessTof"); //Bluetooth device name
   Serial.println("The device started, now you can pair it with bluetooth!");
   Wire.begin();
   sensor.begin(0x50);
