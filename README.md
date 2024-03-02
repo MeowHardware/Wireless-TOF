@@ -10,6 +10,7 @@
 
 esp32走的Arduino，毕竟这种简单的需求给Arduino真是太方便了。安卓的话本来打算用熟悉的Flutter开发的，结果那个蓝牙库效果有点不理想，所以还是用的原生开发，还不是很熟悉🥲。
 
-## 代码开源地址
+## 开源地址
 
 [https://github.com/MeowHardware/Wireless-TOF](https://github.com/MeowHardware/Wireless-TOF)
+[https://oshwhub.com/kjpig/wirelessds](https://oshwhub.com/kjpig/wirelessds)
